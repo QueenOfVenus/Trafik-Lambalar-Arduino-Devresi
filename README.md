@@ -31,6 +31,7 @@ Karaşimşek devresinde edindiğim deneyim üzerine izlediğim yol şu şekilde:
 
 Final:
 Kodları için:  Trafik_Lambalar_.ino 
+
 Sonucu Görmek için:  Trafik Lambaları gif.gif
 
 Hoşçakalın...
